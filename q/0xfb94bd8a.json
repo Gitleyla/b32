@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"internalType":"string","name":"_newBaseURI","type":"string"}],"name":"setMetadataBaseURI","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function","$contractName":"vip181-simple"}]

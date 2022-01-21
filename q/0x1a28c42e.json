@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"internalType":"uint256","name":"tokenId","type":"uint256"}],"name":"applyFor","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function","$contractName":"vip181-simple"}]
